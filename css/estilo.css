@@ -355,4 +355,24 @@ iframe {
 
 /*------Fin Sección Autores-------*/
 
+/*------Inicio Paginas Actividades-------*/
+#actividad_1{
+  background-color: #005883;
+  text-align: left;
+  font-size: 20px;
+}
+
+#actividad_2{
+  background-color: #50B748;
+  text-align: left;
+  font-size: 20px;
+}
+
+#actividad_3{
+  background-color: #A54686;
+  text-align: left;
+  font-size: 20px;
+}
+/*------Inicio Paginas Actividades-------*/
+
 </style>
