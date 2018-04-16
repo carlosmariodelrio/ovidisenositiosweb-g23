@@ -191,15 +191,17 @@
   }
 
 /*---------Footer--------*/
-  #piefinal {
+ #piefinal {
     background-color: #efefef;
     color: #005883;
     position: relative;
     text-align: center;
     font-size: 14px;
-    margin-bottom: -20px;
+    width: 100%;
+    height: 25%;
+    margin-top:50%; 
+   
   }
-
   .footer {
     display: inline-block;
     margin-left: 10%;
