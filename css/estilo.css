@@ -233,7 +233,8 @@
       list-style: none;    
   }
 
-/*--Video--*/
+/*------Sección Multimedia-----*/
+/*------Video-------*/
 
 .contenido_m{
   position: relative;
@@ -286,6 +287,73 @@ iframe {
   color: #005883;
   padding:30px;
 }
+/*------Fin Sección Multimedia-------*/
 
+/*------Sección Autores------*/
+
+.contenido_curso{
+  position: relative;
+  display: block;
+  margin: 1%;
+  border-radius: 8px;
+  font-size: large;
+  font-family: arial, Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 20px;
+  box-shadow: 0px 8px 6px #888888;
+  text-align: center;
+}
+
+.contenido_curso div{
+  display: inline-block;
+  margin: 20px;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.contenido_curso div img{
+  border: 1px solid black;
+}
+
+
+.contenido_a{
+  position: relative;
+  display: inline-block;
+  margin: 1%;
+  border-radius: 8px;
+  font-size: large;
+  font-family: arial, Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+  box-shadow: 8px 8px 6px #888888;
+  text-align: center;
+  width: 30%;
+}
+
+.contenido_a div{
+  display: inline-block;
+  margin: 20px;
+  position: relative;
+}
+
+.contenido_a div img{
+  border: 1px solid black;
+}
+
+#contenido_a_1{
+  background-color: #A54686;
+}
+
+#contenido_a_2{
+  background-color: #005883;
+}
+
+#contenido_a_3{
+  background-color: #43C7F4;
+}
+
+/*------Fin Sección Autores-------*/
 
 </style>
